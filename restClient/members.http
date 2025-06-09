@@ -2,8 +2,8 @@ POST http://localhost:3000/members
 Content-Type: application/json
 
 {
-  "name": "Mark",
-  "email": "mark123",
+  "name": "Muliro",
+  "email": "muliro123",
   "memberID": "123re",
  "phone": "+123456789",
 }
